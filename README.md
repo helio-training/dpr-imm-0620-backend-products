@@ -12,3 +12,9 @@
     - Read Functions
     - Update Functions
     - Delete Function
+
+### Completed
+- Service Layer
+    - Read Route
+- Data Access Layer
+    - Read Function
